@@ -47,7 +47,7 @@ Agents can access and manage active tickets through the Agent Panel, where they 
 <img src="https://i.gyazo.com/ab49b40fb043249f80498bd544a2244c.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-In this example, the ticket is prioritized as "Emergency" because of its potential impact on a critical business area, and the SLA plan is updated to "Sev-A" to match its severity.
+In this case, the ticket is prioritized as "Emergency" due to its potential impact on a critical business area. As the agent works to resolve the issue, the SLA plan is updated to "Sev-A" to align with the severity and urgency of the situation.
 </p>
 <br />
 
