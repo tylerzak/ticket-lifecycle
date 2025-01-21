@@ -39,7 +39,7 @@ Karen, one of our customers, is opening a new ticket under the Business Critical
 <img src="https://i.gyazo.com/14f009b4a943dd66f789998645b97064.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Agents can view active tickets in the Agent Panel. Queue managers assign priority tickets to the correct agents and ensure SLAs are met.
+Agents can access and manage active tickets through the Agent Panel, where they can prioritize tasks and track progress. Queue managers ensure that high-priority tickets are routed to the appropriate agents for timely resolution.
 </p>
 <br />
 
