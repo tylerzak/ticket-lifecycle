@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.gyazo.com/56ca05a0fe4599f71daf553487155800.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Karen, one of our customers, is opening a new ticket under the Business Critical Outage help topic. The issue reported is that the online banking is down.
+Karen, one of our customers, is opening a new ticket under the Business Critical Outage help topic. The issue reported is that the online banking system is down.
 </p>
 <br />
 
