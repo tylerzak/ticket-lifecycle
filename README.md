@@ -55,6 +55,6 @@ In this case, the ticket is prioritized as "Emergency" due to its potential impa
 <img src="https://i.gyazo.com/6c784b769a999096e41ef7ac0b328da7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-The ticket was closed after determining that the root cause was related to a recent update, with the resolution noted at the bottom of the page. The vendor was promptly notified, and users were able to log in without any further issues. The status was then updated to "Resolved."
+The ticket was closed after identifying that the root cause was linked to a recent update. With the issue resolved, the vendor was notified, and users were able to log in without further complications. The status was then updated to "Resolved," and the user was informed of the fix.
 </p>
 <br />
