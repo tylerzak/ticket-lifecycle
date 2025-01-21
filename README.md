@@ -25,10 +25,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 <p>
-<img src="https://gyazo.com/f1d3b9629531f4b971e59a93edf230ce" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/f1d3b9629531f4b971e59a93edf230ce.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-<img src="https://gyazo.com/56ca05a0fe4599f71daf553487155800" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/56ca05a0fe4599f71daf553487155800.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Karen, one of our customers, is opening a new ticket under the Business Critical Outage help topic. The issue reported is that the online banking is down.
@@ -36,7 +36,7 @@ Karen, one of our customers, is opening a new ticket under the Business Critical
 <br />
 
 <p>
-<img src="https://gyazo.com/14f009b4a943dd66f789998645b97064" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/14f009b4a943dd66f789998645b97064.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Agents can view active tickets in the Agent Panel. Queue managers assign priority tickets to the correct agents and ensure SLAs are met.
@@ -44,7 +44,7 @@ Agents can view active tickets in the Agent Panel. Queue managers assign priorit
 <br />
 
 <p>
-<img src="https://gyazo.com/ab49b40fb043249f80498bd544a2244c" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/ab49b40fb043249f80498bd544a2244c.jpg" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 In this example, the ticket is prioritized as "Emergency" because of its potential impact on a critical business area, and the SLA plan is updated to "Sev-A" to match its severity.
@@ -52,7 +52,7 @@ In this example, the ticket is prioritized as "Emergency" because of its potenti
 <br />
 
 <p>
-<img src="https://gyazo.com/6c784b769a999096e41ef7ac0b328da7" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.gyazo.com/6c784b769a999096e41ef7ac0b328da7.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 The ticket was closed after determining that the root cause was related to a recent update, with the resolution noted at the bottom of the page. The vendor was promptly notified, and users were able to log in without any further issues. The status was then updated to "Resolved."
